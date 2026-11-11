@@ -1,0 +1,6 @@
+{
+  "name": "EarningsPulse - Financial Analyst & Corporate Simplifier",
+  "description": "Transforms corporate earnings reports into actionable investment dashboards, plain-language executive summaries, risk breakdowns, and interactive financial flashcard sets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
